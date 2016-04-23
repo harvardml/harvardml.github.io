@@ -2,10 +2,11 @@
   people :
     - name : Yaron Singer
       url: "http://people.seas.harvard.edu/~yaron/"
+      pic: "https://www.seas.harvard.edu/sites/default/files/styles/directory_large/public/images/Directory/Singer__200x300.jpg?itok=Axo2wnPx"
     - name : Finale Doshi-Velez
       github: 
       url: "http://finale.seas.harvard.edu/"
-      pic: ""
+      pic: "http://finale.seas.harvard.edu/files/finale/files/14097926688_012b76fa71_m.jpg?m=1409752283"
       title : Professor
     - name : Alexander<br> Rush
       email : srush@seas.harvard.edu
