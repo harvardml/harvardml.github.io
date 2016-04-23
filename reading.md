@@ -35,12 +35,5 @@ permalink: /meetings/
 }
 </style>
 
-<table id="pubTable" class="table table-hover"></table>
-<script>
-$(function(){
-bibtexify("reading.bib", "pubTable", {"visualization":false});}
-);
-</script>
-
 
 
