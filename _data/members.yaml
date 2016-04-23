@@ -1,10 +1,11 @@
 - group : Faculty
   people :
-    - 
-    - name : Stuart Shieber
-      github: srush
-      url: "http://www.eecs.harvard.edu/shieber/"
-      pic: "/images/shieber.png"
+    - name : Yaron Singer
+      url: "http://people.seas.harvard.edu/~yaron/"
+    - name : Finale Doshi-Velez
+      github: 
+      url: "http://finale.seas.harvard.edu/"
+      pic: ""
       title : Professor
     - name : Alexander<br> Rush
       email : srush@seas.harvard.edu
@@ -12,65 +13,3 @@
       url: "http://rush.seas.harvard.edu/"
       githubid: 35882
       title : Assistant Professor
-- group : Graduate Students
-  people :
-    - name: Sebastian Gehrmann
-      githubid: 2212304
-      github: sebastianGehrmann
-      url: "http://scholar.harvard.edu/gehrmann"
-      title: PhD Student
- 
-    - name : Yoon Kim
-      email : yoonkim@seas.harvard.edu
-      url : "http://www.people.fas.harvard.edu/~yoonkim/"
-      github: yoonkim
-      githubid: 5378003 
-      title : PhD Student
-    - name: Victoria Krakovna
-      githubid: 13193139
-      url: "http://github.com/vkrakovna"
-      
-    - name : Allen<br> Schmaltz
-      github: allenschmaltz
-      githubid: 2748209
-      email : blank
-      url: "http://github.com/allenschmaltz"
-      title: PhD Student
-
-    - name : Sam Wiseman
-      email : swiseman@seas.harvard.edu
-      title : PhD Student
-      githubid: 4635868
-      url: "http://github.com/swiseman"
-      title: PhD Student
-- group: Undergraduate Researchers
-  people:
-    - name : Jeffrey Ling
-      email: blank
-      url: https://github.com/jeffreyling
-      githubid: 5473863
-      title: Undergrad Researcher 
-    - name : Keyon Vafa
-      email: blank
-      title: Undergraduate
-      url: https://github.com/keyonvafa
-      githubid: 10766891
-      github: 10766891
-
-    - name : Alex Wang
-      email: blank
-      url: https://github.com/W4ngatang
-      githubid: 5520155
-      title: Undergrad Researcher
-
-    - name : Hugh Zabriskie
-      email: blank
-      title: Undergraduate
-      url: https://github.com/glasperfan
-      githubid: 6545534
-
-    - name : Mike Zhai
-      email: blank
-      title: Undergraduate
-      url: https://github.com/mzhai2
-      githubid: 5619828
