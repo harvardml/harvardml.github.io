@@ -1,0 +1,17 @@
+# Site navigation links
+
+- title: code
+  url: /code/
+  excerpt:
+  image:
+- title: papers
+  url: /papers/
+  excerpt:
+  image:
+- title: meetings
+  url: /meetings/
+  excerpt:
+  image:
+
+    
+    

@@ -1,6 +1,6 @@
 - title: Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction
   authors: Allen Schmaltz, Yoon Kim, Alexander M. Rush, and Stuart M. Shieber
-  conference: Workshop Submission for AESW 2016 (Top Performing System)
+  conference: Workshop Submission for AESW 2016 
   pdf : /papers/aesw2016.pdf
   image: /images/aesw2016.png
   
