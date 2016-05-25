@@ -1,0 +1,25 @@
+---
+layout: article
+title: Courses
+permalink: /courses/
+---
+
+Courses
+
+{% for course in site.data.courses %}
+
+<table>
+  <tr>
+  <td style="padding:10px">
+<a class="paper" href="{{course.url}}">
+{{course.title}}
+</a><br>
+{{course.instructors}}.<br>
+{{course.semester}} <br>
+
+</td></tr>
+
+{% endfor %}
+</table>
+
+

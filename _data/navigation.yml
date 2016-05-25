@@ -1,5 +1,9 @@
 # Site navigation links
 
+- title: courses 
+  url: /courses/
+  excerpt:
+  image:
 - title: code
   url: /code/
   excerpt:
