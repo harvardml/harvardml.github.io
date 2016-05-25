@@ -3,6 +3,7 @@
     - name : Yaron Singer
       url: "http://people.seas.harvard.edu/~yaron/"
       pic: "https://www.seas.harvard.edu/sites/default/files/styles/directory_large/public/images/Directory/Singer__200x300.jpg?itok=Axo2wnPx"
+      description: Yaron does cool theory stuff 
     - name : Finale Doshi-Velez
       github: 
       url: "http://finale.seas.harvard.edu/"
@@ -14,3 +15,21 @@
       url: "http://rush.seas.harvard.edu/"
       githubid: 35882
       title : Assistant Professor
+    - name : Ryan<br> Adams
+      email : rpa@seas.harvard.edu
+      github: 
+      url: "http://rpa.seas.harvard.edu/"
+      githubid: 35882
+      title : Assistant Professor
+- group: Postdocs 
+  people: 
+
+- group: Students
+  people: 
+    - name : Alexander<br> Someone 
+      email : srush@seas.harvard.edu
+      github: srush
+      url: "http://rush.seas.harvard.edu/"
+      githubid: 35882
+      title : Assistant Professor
+    
