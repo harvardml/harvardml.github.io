@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Harvard Machine Learning</title>
-  <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.1</generator>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.6</generator>
     <icon>/apple-touch-icon-precomposed.png</icon>
   <subtitle>Home of the Harvard SEAS machine learning group.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="/" rel="alternate" type="text/html"/>
-  <updated>2016-04-23T12:03:52-04:00</updated>
+  <updated>2016-05-25T12:45:22-04:00</updated>
   <id>/</id>
   <author>
     <name></name>

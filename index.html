@@ -26,14 +26,29 @@ image:
 <h3>{{group.group}}</h3>
 </div>
 </div>
-<div class ="row">
+
+<div class="row">
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+</div>
+
 {% for member in group.people %}
-
-
+<div class ="row">
 <div class="col-md-3"><div><a href="{{member.url}}">
 <img class="img-thumbnail" width="100px" src="{% if member.githubid  %}https://avatars2.githubusercontent.com/u/{{member.githubid}}?v=3&s=400{% else %}{{member.pic}}{% endif %}"></a></div>
-<div style="margin-bottom:20px"><center>{{member.name}}</center></div> </div>
-
-{% endfor %}
+<div class="col-md-3",style="margin-bottom:20px"><left>{{member.name}}</left></div> </div>
+<div class="col-md-3",style="margin-bottom:20px"><left>{{member.description}}</left></div> </div>
 </div>
+{% endfor %}
+
 {% endfor %}
