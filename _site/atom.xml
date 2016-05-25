@@ -7,7 +7,11 @@
   <subtitle>Home of the Harvard SEAS machine learning group.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="/" rel="alternate" type="text/html"/>
+<<<<<<< HEAD
   <updated>2016-05-25T13:09:31-04:00</updated>
+=======
+  <updated>2016-05-25T13:10:52-04:00</updated>
+>>>>>>> 1180bf1bec7406498829b40df0c1dc102c846fce
   <id>/</id>
   <author>
     <name></name>
