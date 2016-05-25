@@ -19,17 +19,63 @@
       email : rpa@seas.harvard.edu
       github: 
       url: "http://rpa.seas.harvard.edu/"
-      githubid: 35882
+      githubid: 
       title : Assistant Professor
 - group: Postdocs 
   people: 
-
+    - name : David Duvenaud 
+      email : 
+      github: 
+      url: 
+      githubid: 
+    - name : Jose Miguel Hernandez Lobato 
+      email : 
+      github: 
+      url: 
+      githubid: 
+    - name : Michael Hughes 
+      email : 
+      github: 
+      url: 
+      githubid: 
 - group: Students
   people: 
-    - name : Alexander<br> Someone 
-      email : srush@seas.harvard.edu
-      github: srush
-      url: "http://rush.seas.harvard.edu/"
-      githubid: 35882
-      title : Assistant Professor
+    - name : Yakir Reshef 
+      email : 
+      github: 
+      url: 
+      githubid: 
+    - name : Andy Miller 
+      email : 
+      github: 
+      url: 
+      githubid: 
+    - name : Arjumand Masood 
+      email : 
+      github: 
+      url: 
+      githubid: 
+    - name : Deborah Hanus 
+      email : 
+      github: 
+      url: 
+      githubid: 
+    - name : Victoria Krakovna 
+      email : 
+      github: 
+      url: 
+      githubid: 
+    - name : Wei Wei Pan 
+      email : 
+      github: 
+      url: 
+      githubid: 
+    - name : Taylor Killian 
+      email : 
+      github: 
+      url: 
+      githubid: 
+
+
+
     
